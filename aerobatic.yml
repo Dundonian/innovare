@@ -1,7 +1,7 @@
-id: 97b76d3b-dd69-49d2-9a41-0aab56b6d3b9
+id: 4f0028bf-9e4f-43a7-acdc-eafaf89f7807
 deploy:
   ignore: []
-  directory: .
+  directory: _site
 plugins:
   - name: form-submit
     method: post
